@@ -17,4 +17,6 @@ The repository includes the following files:
 
 To play the game, simply open the index.html file in a web browser and refresh the page to generate a new result.
 
+## you can access this game by clicking this site [dice game](https://dice-game-nitesh.netlify.app/)
+
 Enjoy the Dice Game  🎲  🎲 !
